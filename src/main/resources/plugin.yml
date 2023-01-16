@@ -1,0 +1,15 @@
+name: FlanGuns
+version: ${project.version}
+main: net.arcanon.flanguns.FlanGuns
+api-version: 1.13
+depend: [NBTAPI]
+authors: [Bram]
+description: The official FlanGuns plugin commission
+website: Arcanon.net
+commands:
+  flanguns:
+    description: The general command for the FlanGuns plugin
+    usage: /flanguns
+    aliases:
+      - flangun
+      - fg

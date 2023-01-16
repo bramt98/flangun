@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: /Users/bramtimmerman/Desktop/Projecten/Minecraft/FlanGuns/sr
+ c/main/java
+
